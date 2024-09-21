@@ -19,7 +19,7 @@ app.get('/burgers', (req, res) => {
     const protocol = req.protocol;
     const updatedBurgersData = burgersData.map((chair, index) => ({
         ...chair,
-        image: `${protocol}://${hostname}/assets/burgers_product_${index + 1}.png` // Generate dynamic PNG image URLs
+        image: `${protocol}://${hostname}/assets/burger_product_${index + 1}.png` // Generate dynamic PNG image URLs
     }));
     res.status(200).json(updatedBurgersData);
 });
