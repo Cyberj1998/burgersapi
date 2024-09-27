@@ -1,54 +1,57 @@
+
+Works Combo
+
 [
     {
-        "name": "Burger",
+        "name": "Classic ",
         "prize": 19.99,
         "image": "./assets/burger_product_1",
         "key": 0
     },
     {
-        "name": "Burger2",
+        "name": "Big Cheese",
         "prize": 20.45,
         "image": "./assets/burger_product_2",
         "key": 1
     },
     {
-        "name": "Burger3",
+        "name": "BBQ Bacon",
         "prize": 14.99,
         "image": "./assets/burger_product_3",
         "key": 2
     },
     {
-        "name": "Burger4",
+        "name": "Works Combo",
         "prize": 19.85,
         "image": "./assets/burger_product_4",
         "key": 3
     },
     {
-        "name": "Burger5",
+        "name": "Double Stack",
         "prize": 20.00,
         "image": "./assets/burger_product_5",
         "key": 4
     },
     {
-        "name": "Burger6",
+        "name": "Spicy Jalapeno",
         "prize": 10.55,
         "image": "./assets/burger_product_6",
         "key": 5
     },
     {
-        "name": "Burger7",
+        "name": "Mushroom Swiss",
         "prize": 11.99,
         "image": "./assets/burger_product_7",
         "key": 6
     },
     {
-        "name": "Burger8",
+        "name": "Southwest Chipotle",
         "prize": 19.85,
         "image": "./assets/burger_product_8",
         "key": 7
     },
     {
-        "name": "Burger9",
+        "name": "Veggie Delight",
         "prize": 15.95,
         "image": "./assets/burger_product_9",
         "key": 8
